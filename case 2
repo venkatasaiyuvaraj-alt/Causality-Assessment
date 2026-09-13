@@ -1,0 +1,88 @@
+### Patient Demographics
+* Identifier: Patient S.K.
+* Age: 34 years
+* Gender: Male
+* Weight: 72 kg
+* Medical History: Focal epilepsy (newly diagnosed), no prior drug allergies, no chronic co-morbidities.
+
+### Clinical Chronology
+* Month 1 (Day 1): Diagnosed with focal epilepsy; initiated on Carbamazepine 200 mg orally twice daily.
+* Month 1 (Day 18): Patient developed low-grade fever, malaise, and sore throat.
+* Month 1 (Day 21): Developed painful erythematous macules on the face and trunk, conjunctival injection, and oral mucosal erosions.
+* Month 1 (Day 22): Epidermal detachment covered 8 percent of total body surface area (TBSA). Presented to the emergency department.
+* Laboratory Findings at Admission:
+  * White Blood Cell Count: 11,200 cells/mcL with mild eosinophilia (6 percent)
+  * Serum Creatinine: 1.1 mg/dL (Normal reference range: 0.7 to 1.3 mg/dL)
+  * Alanine Aminotransferase (ALT): 85 U/L (Elevated; reference range: 7 to 56 U/L)
+  * Skin Biopsy: Full-thickness epidermal necrosis with subepidermal blistering, confirming Stevens-Johnson Syndrome.
+* Intervention: Immediate permanent discontinuation of Carbamazepine; patient transferred to the intensive care unit (ICU) for barrier nursing, aggressive IV fluid management, cyclosporine therapy, and supportive ophthalmic care.
+* Follow-up (Day 14 post-discontinuation): Complete re-epithelialization of cutaneous lesions, resolution of mucosal ulcers, and normalization of liver enzymes.
+
+---
+
+## Task 2: Standardized ADR Reporting Form
+
+| Section | Parameter | Details |
+| :--- | :--- | :--- |
+| 1. Patient Information | Patient Initials | S.K. |
+| | Age / Gender / Weight | 34 yrs / Male / 72 kg |
+| 2. Adverse Event Details | Reaction Description | Stevens-Johnson Syndrome (SJS) with oral and ocular mucosal involvement |
+| | Date of Onset | Day 21 after Carbamazepine initiation |
+| | Reaction Severity | Severe / Life-threatening (required ICU admission) |
+| 3. Suspected Drug(s) | Suspected Drug | Carbamazepine 200 mg orally twice daily |
+| | Interacting Agent | None |
+| | Indication | Focal Epilepsy |
+| | Action Taken | Carbamazepine immediately and permanently discontinued |
+| 4. Concomitant Drugs | Concurrent Therapy | Levetiracetam 500 mg orally twice daily (initiated in ICU as substitute) |
+| 5. Outcome and De-challenge | De-challenge Outcome | Positive: Cutaneous lesions re-epithelialized post-withdrawal |
+| | Re-challenge | Not Performed (Strictly contraindicated due to life-threatening risk) |
+| | Final Outcome | Recovered with minor ocular mucosal scarring |
+
+---
+
+## WHO-UMC Causality Assessment
+
+* Classification: Probable / Likely
+* Rationale:
+  1. Temporal Sequence: Symptoms appeared 3 weeks after initiating Carbamazepine, which matches the classic 1 to 4 week latency period for drug-induced SJS.
+  2. De-challenge: Progressive healing of mucosal and skin lesions occurred following drug discontinuation and supportive care.
+  3. Exclusion of Alternatives: Extensive viral panel (HSV, EBV, Mycoplasma pneumoniae) was negative, excluding infectious causes of erythema multiforme/SJS.
+  4. Re-challenge: Re-exposure was ethically contraindicated due to high mortality risk, categorizing the event as Probable under WHO criteria rather than Certain.
+
+---
+
+## Naranjo Causality Assessment Scale
+
+| No | Question / Criterion | Yes | No | Unknown | Score |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | +1 | 0 | 0 | +1 |
+| 2 | Did the adverse event appear after the suspect drug was given? | +2 | -1 | 0 | +2 |
+| 3 | Did the adverse reaction improve when the drug was stopped? | +1 | 0 | 0 | +1 |
+| 4 | Did the reaction reappear when the drug was readministered? | +2 | -1 | 0 | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | -1 | +2 | 0 | +2 |
+| 6 | Did the reaction reappear when a placebo was given? | -1 | +1 | 0 | 0 |
+| 7 | Was the drug detected in blood/fluids in toxic concentrations? | +1 | 0 | 0 | 0 |
+| 8 | Was the reaction severe when dose increased / less severe when decreased? | +1 | 0 | 0 | 0 |
+| 9 | Did the patient have a similar reaction to same/similar drugs in past? | +1 | 0 | 0 | 0 |
+| 10 | Was the adverse event confirmed by objective laboratory evidence? | +1 | 0 | 0 | +1 |
+| TOTAL | | | | | +7 |
+
+### Naranjo Rating and Justification
+* Total Naranjo Score: +7
+* Causality Classification: Probable (Score Range: 5 to 8)
+
+#### Detailed Score Breakdown
+* Question 1 (+1): Carbamazepine is a well-established cause of severe cutaneous adverse reactions (SCARs/SJS), particularly in HLA-B*1502 positive individuals.
+* Question 2 (+2): Clear temporal relationship with onset occurring 21 days after drug initiation.
+* Question 3 (+1): Positive de-challenge; skin erosion stabilized and healed once the drug was removed.
+* Question 4 (0): Re-challenge was not attempted due to safety and ethical risks.
+* Question 5 (+2): Infectious causes and secondary drug etiologies were definitively ruled out through diagnostic screening.
+* Question 10 (+1): Objective confirmation provided by histopathological evaluation (skin biopsy) showing epidermal detachment and necrosis.
+
+---
+
+## Hartwig and Siegel Severity Assessment Scale
+
+* Severity Rating: Level 5 - Severe
+* Classification Criteria: Any ADR that requires intensive care unit (ICU) admission or life-supportive interventions to manage life-threatening complications.
+* Clinical Justification: The reaction resulted in extensive epidermal detachment and mucosal breakdown requiring specialized ICU care, barrier isolation, immunosuppressive therapy, and continuous fluid restoration to prevent secondary sepsis and death.
