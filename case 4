@@ -1,0 +1,89 @@
+Drug-Induced Hepatotoxicity (DILI) caused by an anti-tuberculosis regimen.
+
+### Patient Demographics
+* Identifier: Patient A.P.
+* Age: 45 years
+* Gender: Female
+* Weight: 55 kg
+* Medical History: Pulmonary Tuberculosis (newly diagnosed), no baseline liver dysfunction, non-smoker, non-drinker.
+
+### Clinical Chronology
+* Month 1 (Day 1): Initiated on standard fixed-dose combination anti-TB therapy containing Isoniazid 300 mg, Rifampicin 600 mg, Pyrazinamide 1500 mg, and Ethambutol 1000 mg daily.
+* Month 1 (Day 26): Patient developed right upper quadrant abdominal pain, anorexia, severe nausea, dark urine, and progressive scleral icterus.
+* Laboratory Findings at Admission (Day 28):
+  * Alanine Aminotransferase (ALT): 620 U/L (Baseline: 22 U/L; elevated to greater than 10 times upper limit of normal)
+  * Aspartate Aminotransferase (AST): 540 U/L (Baseline: 25 U/L)
+  * Total Bilirubin: 4.2 mg/dL (Baseline: 0.8 mg/dL)
+  * Viral Hepatitis Serology (Hep A, B, C, E): Negative
+  * Abdominal Ultrasound: Normal biliary tract, no gallstones or ductal dilation.
+* Intervention: Immediate discontinuation of all hepatotoxic anti-TB drugs (Isoniazid, Rifampicin, Pyrazinamide); patient managed with supportive care and non-hepatotoxic background regimen (Ethambutol and Levofloxacin).
+* Follow-up (Day 21 post-discontinuation): Complete resolution of jaundice and abdominal pain; ALT/AST normalized to under 40 U/L and total bilirubin returned to 0.9 mg/dL.
+
+---
+
+## Task 2: Standardized ADR Reporting Form
+
+| Section | Parameter | Details |
+| :--- | :--- | :--- |
+| 1. Patient Information | Patient Initials | A.P. |
+| | Age / Gender / Weight | 45 yrs / Female / 55 kg |
+| 2. Adverse Event Details | Reaction Description | Acute Drug-Induced Liver Injury (DILI) with cholestatic jaundice |
+| | Date of Onset | Day 26 after Antitubercular Therapy initiation |
+| | Reaction Severity | Moderate / High-risk (required hospital admission and regimen interruption) |
+| 3. Suspected Drug(s) | Suspected Drug | Isoniazid 300 mg / Rifampicin 600 mg / Pyrazinamide 1500 mg orally daily |
+| | Interacting Agent | None |
+| | Indication | Pulmonary Tuberculosis |
+| | Action Taken | Suspected hepatotoxic agents immediately and permanently halted |
+| 4. Concomitant Drugs | Concurrent Therapy | Pyridoxine (Vitamin B6) 25 mg daily (continued without change) |
+| 5. Outcome and De-challenge | De-challenge Outcome | Positive: Complete clinical recovery and normalization of liver enzymes |
+| | Re-challenge | Not Performed (Modified safe regimen used instead) |
+| | Final Outcome | Recovered fully without chronic hepatic impairment |
+
+---
+
+## WHO-UMC Causality Assessment
+
+* Classification: Probable / Likely
+* Rationale:
+  1. Temporal Sequence: Symptoms and severe hepatic transaminase elevations developed 4 weeks after starting anti-TB treatment, matching the typical onset window for pyrazinamide/isoniazid hepatotoxicity.
+  2. De-challenge: Prompt recovery of liver function markers and symptom resolution occurred after stopping the suspected drugs.
+  3. Exclusion of Alternatives: Viral hepatitis (A, B, C, E), biliary obstruction, alcohol misuse, and autoimmune hepatitis were excluded.
+  4. Re-challenge: Re-exposure to the culprit combination was avoided, categorizing the causality as Probable under WHO criteria rather than Certain.
+
+---
+
+## Naranjo Causality Assessment Scale
+
+| No | Question / Criterion | Yes | No | Unknown | Score |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | +1 | 0 | 0 | +1 |
+| 2 | Did the adverse event appear after the suspect drug was given? | +2 | -1 | 0 | +2 |
+| 3 | Did the adverse reaction improve when the drug was stopped? | +1 | 0 | 0 | +1 |
+| 4 | Did the reaction reappear when the drug was readministered? | +2 | -1 | 0 | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | -1 | +2 | 0 | +2 |
+| 6 | Did the reaction reappear when a placebo was given? | -1 | +1 | 0 | 0 |
+| 7 | Was the drug detected in blood/fluids in toxic concentrations? | +1 | 0 | 0 | 0 |
+| 8 | Was the reaction severe when dose increased / less severe when decreased? | +1 | 0 | 0 | 0 |
+| 9 | Did the patient have a similar reaction to same/similar drugs in past? | +1 | 0 | 0 | 0 |
+| 10 | Was the adverse event confirmed by objective laboratory evidence? | +1 | 0 | 0 | +1 |
+| TOTAL | | | | | +7 |
+
+### Naranjo Rating and Justification
+* Total Naranjo Score: +7
+* Causality Classification: Probable (Score Range: 5 to 8)
+
+#### Detailed Score Breakdown
+* Question 1 (+1): Anti-tuberculosis drug-induced hepatotoxicity is extensively documented in medical literature.
+* Question 2 (+2): Clear temporal pattern with hepatic injury presenting 26 days after therapy initiation.
+* Question 3 (+1): Positive de-challenge; transaminases rapidly declined to baseline following drug withdrawal.
+* Question 4 (0): Sequential single-drug rechallenge was not performed due to safety concerns.
+* Question 5 (+2): Viral, metabolic, and obstructive causes of hepatitis were systematically ruled out.
+* Question 10 (+1): Confirmed objectively through liver function tests showing ALT and AST greater than 10 times upper limit of normal.
+
+---
+
+## Hartwig and Siegel Severity Assessment Scale
+
+* Severity Rating: Level 4 (a) - Moderate
+* Classification Criteria: Any ADR that directly causes hospital admission, requires immediate withdrawal of the suspected drug, and mandates specialized medical management.
+* Clinical Justification: The hepatotoxic reaction required emergency hospital admission, cessation of primary tuberculosis therapy, and initiation of a non-hepatotoxic secondary drug regimen to manage the patient safely.
