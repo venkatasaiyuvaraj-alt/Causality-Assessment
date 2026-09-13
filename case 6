@@ -1,0 +1,88 @@
+Fluoroquinolone-Induced Tendinopathy and Tendon Rupture.
+
+### Patient Demographics
+* Identifier: Patient R.B.
+* Age: 68 years
+* Gender: Male
+* Weight: 76 kg
+* Medical History: Chronic Obstructive Pulmonary Disease (COPD), mild osteoarthritis, no previous history of tendonitis or Achilles tendon injury.
+
+### Clinical Chronology
+* Month 1 (Day 1): Diagnosed with an acute bacterial exacerbation of COPD; prescribed Levofloxacin 500 mg orally once daily for 10 days.
+* Month 1 (Day 8): Patient developed sudden, severe bilateral posterior ankle pain, localized swelling, and stiffness upon weight-bearing.
+* Month 1 (Day 10): Experienced a sudden popping sound in the right heel while walking, resulting in immediate inability to plantarfles or bear weight on the right leg.
+* Diagnostic and Clinical Findings at Admission:
+  * Physical Exam: Positive Thompson squeeze test on the right leg (absent plantar flexion); visible gap palpable 4 cm proximal to the calcaneal insertion.
+  * Ankle Ultrasound: Complete full-thickness tear of the right Achilles tendon and high-grade tendinopathy of the left Achilles tendon.
+  * Systemic Markers: Normal inflammatory markers (ESR and CRP within normal reference ranges).
+* Intervention: Immediate permanent cessation of Levofloxacin; patient referred to orthopedic surgery for right Achilles tendon surgical repair and left ankle immobilization.
+* Follow-up (Month 4 post-discontinuation): Completed physical therapy; right Achilles tendon healed post-repair, left tendinopathy fully resolved without secondary rupture.
+
+---
+
+## Task 2: Standardized ADR Reporting Form
+
+| Section | Parameter | Details |
+| :--- | :--- | :--- |
+| 1. Patient Information | Patient Initials | R.B. |
+| | Age / Gender / Weight | 68 yrs / Male / 76 kg |
+| 2. Adverse Event Details | Reaction Description | Levofloxacin-induced Achilles tendinitis and acute right tendon rupture |
+| | Date of Onset | Day 8 (tendinopathy) / Day 10 (rupture) after Levofloxacin initiation |
+| | Reaction Severity | Severe / Permanent tissue damage (required surgical intervention) |
+| 3. Suspected Drug(s) | Suspected Drug | Levofloxacin 500 mg orally once daily |
+| | Interacting Agent | None |
+| | Indication | Acute Bacterial Exacerbation of COPD |
+| | Action Taken | Levofloxacin immediately and permanently halted |
+| 4. Concomitant Drugs | Concurrent Therapy | Tiotropium inhaler 18 mcg daily, Salbutamol inhaler as needed |
+| 5. Outcome and De-challenge | De-challenge Outcome | Positive: Left Achilles tendinitis resolved post-withdrawal |
+| | Re-challenge | Not Performed (Strictly contraindicated due to risk of recurrent rupture) |
+| | Final Outcome | Recovered following orthopedic surgery and rehabilitation |
+
+---
+
+## WHO-UMC Causality Assessment
+
+* Classification: Probable / Likely
+* Rationale:
+  1. Temporal Sequence: Tendon pain began on Day 8 of Levofloxacin therapy, matching the established onset window for fluoroquinolone-induced tendinopathy (typically within 1 to 14 days).
+  2. De-challenge: Tendinitis in the non-ruptured left ankle subsided after drug withdrawal and immobilization.
+  3. Exclusion of Alternatives: Patient had no history of high-impact trauma, intense athletic exertion, or concurrent systemic corticosteroid use.
+  4. Re-challenge: Re-exposure was ethically avoided due to high risk of re-rupture, placing causality in Probable under WHO criteria rather than Certain.
+
+---
+
+## Naranjo Causality Assessment Scale
+
+| No | Question / Criterion | Yes | No | Unknown | Score |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | +1 | 0 | 0 | +1 |
+| 2 | Did the adverse event appear after the suspect drug was given? | +2 | -1 | 0 | +2 |
+| 3 | Did the adverse reaction improve when the drug was stopped? | +1 | 0 | 0 | +1 |
+| 4 | Did the reaction reappear when the drug was readministered? | +2 | -1 | 0 | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | -1 | +2 | 0 | +2 |
+| 6 | Did the reaction reappear when a placebo was given? | -1 | +1 | 0 | 0 |
+| 7 | Was the drug detected in blood/fluids in toxic concentrations? | +1 | 0 | 0 | 0 |
+| 8 | Was the reaction severe when dose increased / less severe when decreased? | +1 | 0 | 0 | 0 |
+| 9 | Did the patient have a similar reaction to same/similar drugs in past? | +1 | 0 | 0 | 0 |
+| 10 | Was the adverse event confirmed by objective laboratory evidence? | +1 | 0 | 0 | +1 |
+| TOTAL | | | | | +7 |
+
+### Naranjo Rating and Justification
+* Total Naranjo Score: +7
+* Causality Classification: Probable (Score Range: 5 to 8)
+
+#### Detailed Score Breakdown
+* Question 1 (+1): Fluoroquinolone-induced tendinopathy and tendon rupture (black box warning) is well-documented in pharmacovigilance databases.
+* Question 2 (+2): Clear temporal onset with tendinopathy developing 8 days after starting Levofloxacin.
+* Question 3 (+1): Positive de-challenge; contralateral (left) tendinitis improved following Levofloxacin discontinuation.
+* Question 4 (0): Re-challenge was not attempted due to severe risk of re-injury.
+* Question 5 (+2): Mechanical trauma, severe exercise, gout, and corticosteroid co-administration were ruled out.
+* Question 10 (+1): Confirmed objectively via ankle ultrasound demonstrating full-thickness Achilles tendon rupture.
+
+---
+
+## Hartwig and Siegel Severity Assessment Scale
+
+* Severity Rating: Level 6 - Severe
+* Classification Criteria: Any ADR that causes permanent damage, structural disability, or requires major surgical intervention to repair damage caused by the reaction.
+* Clinical Justification: The reaction led to structural disruption (complete Achilles tendon rupture) requiring open orthopedic surgical reconstruction, cast immobilization, and long-term physical rehabilitation.
