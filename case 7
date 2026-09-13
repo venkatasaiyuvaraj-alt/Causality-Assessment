@@ -1,0 +1,88 @@
+Drug-Induced Pancreatitis.
+
+### Patient Demographics
+* Identifier: Patient G.T.
+* Age: 54 years
+* Gender: Male
+* Weight: 78 kg
+* Medical History: Type 2 Diabetes Mellitus (4 years), Hypertension, no history of gallstones, alcohol consumption, or hypertriglyceridemia.
+
+### Clinical Chronology
+* Month 1 (Day 1): Added Sitagliptin 100 mg orally once daily to existing Metformin therapy for inadequate glycemic control.
+* Month 3 (Day 15): Patient developed sudden, severe epigastric abdominal pain radiating to the back, accompanied by persistent nausea and vomiting.
+* Laboratory and Imaging Findings at Admission:
+  * Serum Amylase: 840 U/L (Normal reference range: 30 to 110 U/L; elevated to greater than 3 times upper limit of normal)
+  * Serum Lipase: 1,250 U/L (Normal reference range: 10 to 140 U/L)
+  * Serum Triglycerides: 140 mg/dL (Normal reference range: under 150 mg/dL)
+  * Abdominal CT Scan: Diffuse pancreatic enlargement, peripancreatic fluid collection, and absence of gallstones or biliary tree dilation.
+* Intervention: Immediate permanent cessation of Sitagliptin; patient admitted to the inpatient ward for bowel rest, aggressive IV fluid hydration, and analgesic support.
+* Follow-up (Day 10 post-discontinuation): Abdominal pain fully resolved; serum lipase and amylase returned to normal reference ranges; transitioned to Insulin therapy.
+
+---
+
+## Task 2: Standardized ADR Reporting Form
+
+| Section | Parameter | Details |
+| :--- | :--- | :--- |
+| 1. Patient Information | Patient Initials | G.T. |
+| | Age / Gender / Weight | 54 yrs / Male / 78 kg |
+| 2. Adverse Event Details | Reaction Description | Acute interstitial edematous pancreatitis |
+| | Date of Onset | Month 3 (Day 15) after Sitagliptin initiation |
+| | Reaction Severity | Moderate / High-risk (required hospital admission and IV therapy) |
+| 3. Suspected Drug(s) | Suspected Drug | Sitagliptin 100 mg orally once daily |
+| | Interacting Agent | None |
+| | Indication | Type 2 Diabetes Mellitus |
+| | Action Taken | Sitagliptin immediately and permanently discontinued |
+| 4. Concomitant Drugs | Concurrent Therapy | Metformin 1000 mg twice daily, Lisinopril 10 mg daily (both continued) |
+| 5. Outcome and De-challenge | De-challenge Outcome | Positive: Complete clinical and enzymatic resolution post-withdrawal |
+| | Re-challenge | Not Performed (Strictly contraindicated due to risk of necrotizing pancreatitis) |
+| | Final Outcome | Recovered completely without pancreatic exocrine/endocrine insufficiency |
+
+---
+
+## WHO-UMC Causality Assessment
+
+* Classification: Probable / Likely
+* Rationale:
+  1. Temporal Sequence: Symptom onset occurred 2.5 months after starting Sitagliptin, aligning with reported latencies for gliptin-associated pancreatic toxicity.
+  2. De-challenge: Rapid decline in pancreatic enzymes and pain resolution following drug withdrawal and supportive care.
+  3. Exclusion of Alternatives: Cholelithiasis, hypertriglyceridemia, heavy alcohol intake, hypercalcemia, and trauma were ruled out.
+  4. Re-challenge: Re-exposure was ethically avoided due to potential for fatal pancreatitis, placing causality in Probable under WHO criteria rather than Certain.
+
+---
+
+## Naranjo Causality Assessment Scale
+
+| No | Question / Criterion | Yes | No | Unknown | Score |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | +1 | 0 | 0 | +1 |
+| 2 | Did the adverse event appear after the suspect drug was given? | +2 | -1 | 0 | +2 |
+| 3 | Did the adverse reaction improve when the drug was stopped? | +1 | 0 | 0 | +1 |
+| 4 | Did the reaction reappear when the drug was readministered? | +2 | -1 | 0 | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | -1 | +2 | 0 | +2 |
+| 6 | Did the reaction reappear when a placebo was given? | -1 | +1 | 0 | 0 |
+| 7 | Was the drug detected in blood/fluids in toxic concentrations? | +1 | 0 | 0 | 0 |
+| 8 | Was the reaction severe when dose increased / less severe when decreased? | +1 | 0 | 0 | 0 |
+| 9 | Did the patient have a similar reaction to same/similar drugs in past? | +1 | 0 | 0 | 0 |
+| 10 | Was the adverse event confirmed by objective laboratory evidence? | +1 | 0 | 0 | +1 |
+| TOTAL | | | | | +7 |
+
+### Naranjo Rating and Justification
+* Total Naranjo Score: +7
+* Causality Classification: Probable (Score Range: 5 to 8)
+
+#### Detailed Score Breakdown
+* Question 1 (+1): DPP-4 inhibitor-induced acute pancreatitis is a documented adverse effect subject to FDA safety warnings.
+* Question 2 (+2): Clear temporal relationship following initiation of Sitagliptin.
+* Question 3 (+1): Positive de-challenge; pancreatic lipase and amylase normalized after stopping the drug.
+* Question 4 (0): Re-challenge was not attempted due to severe safety risks.
+* Question 5 (+2): Gallstones, alcohol, hyperlipidemia, and metabolic etiologies were excluded.
+* Question 10 (+1): Confirmed objectively through serum lipase and amylase levels greater than 3 times upper limit of normal alongside CT imaging findings.
+
+---
+
+## Hartwig and Siegel Severity Assessment Scale
+
+* Severity Rating: Level 4 (a) - Moderate
+* Classification Criteria: Any ADR that directly requires hospital admission (the reaction is the primary reason for entry) and requires drug withdrawal along with specific medical management.
+* Clinical Justification: The acute pancreatitis required emergency hospital admission, permanent Sitagliptin cessation, NPO protocol (bowel rest), and aggressive IV fluid resuscitation.
