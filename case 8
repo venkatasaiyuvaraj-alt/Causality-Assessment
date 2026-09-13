@@ -1,0 +1,91 @@
+SGLT2-Inhibitor-Induced Euglycemic Diabetic Ketoacidosis (eDKA).
+
+### Patient Demographics
+* Identifier: Patient N.D.
+* Age: 51 years
+* Gender: Female
+* Weight: 64 kg
+* Medical History: Type 2 Diabetes Mellitus (6 years), Hypertension, ongoing low-carbohydrate dietary regimen.
+
+### Clinical Chronology
+* Month 1 (Day 1): Added Empagliflozin 10 mg orally once daily to existing Metformin therapy to improve glycemic control.
+* Month 2 (Day 10): Patient developed mild gastroenteritis with reduced oral intake.
+* Month 2 (Day 12): Patient presented to the emergency department with severe nausea, persistent vomiting, generalized abdominal pain, tachypnea, and fatigue.
+* Laboratory Findings at Admission:
+  * Blood Glucose: 168 mg/dL (Euglycemic; under 250 mg/dL)
+  * Arterial Blood pH: 7.18 (Normal reference range: 7.35 to 7.45; severe metabolic acidosis)
+  * Serum Bicarbonate: 11 mEq/L (Normal reference range: 22 to 29 mEq/L)
+  * Anion Gap: 22 mEq/L (Elevated; reference range: 8 to 12 mEq/L)
+  * Serum Beta-Hydroxybutyrate: 5.4 mmol/L (Elevated; reference range: under 0.5 mmol/L)
+  * Urinalysis: Strongly positive for ketones, positive for glucose.
+* Intervention: Immediate permanent discontinuation of Empagliflozin; patient admitted to the Intensive Care Unit (ICU) for IV insulin infusion, continuous dextrose infusion, and aggressive fluid/electrolyte management.
+* Follow-up (Day 5 post-discontinuation): Complete resolution of ketoacidosis, normalization of arterial pH (7.41) and anion gap; patient transitioned to basal-bolus insulin regimen.
+
+---
+
+## Task 2: Standardized ADR Reporting Form
+
+| Section | Parameter | Details |
+| :--- | :--- | :--- |
+| 1. Patient Information | Patient Initials | N.D. |
+| | Age / Gender / Weight | 51 yrs / Female / 64 kg |
+| 2. Adverse Event Details | Reaction Description | Euglycemic Diabetic Ketoacidosis (eDKA) with severe high anion gap metabolic acidosis |
+| | Date of Onset | Month 2 (Day 12) after Empagliflozin initiation |
+| | Reaction Severity | Severe / Life-threatening (required ICU admission and IV insulin/dextrose protocol) |
+| 3. Suspected Drug(s) | Suspected Drug | Empagliflozin 10 mg orally once daily |
+| | Interacting Agent | None |
+| | Indication | Type 2 Diabetes Mellitus |
+| | Action Taken | Empagliflozin immediately and permanently discontinued |
+| 4. Concomitant Drugs | Concurrent Therapy | Metformin 1000 mg twice daily (temporarily held, then resumed) |
+| 5. Outcome and De-challenge | De-challenge Outcome | Positive: Complete metabolic resolution following drug cessation |
+| | Re-challenge | Not Performed (Strictly contraindicated due to life-threatening recurrence risk) |
+| | Final Outcome | Recovered fully without long-term organ sequelae |
+
+---
+
+## WHO-UMC Causality Assessment
+
+* Classification: Probable / Likely
+* Rationale:
+  1. Temporal Sequence: Onset occurred 6 weeks after starting Empagliflozin, precipitated by a transient stressor (gastroenteritis/reduced caloric intake), matching the known clinical presentation pattern of SGLT2-inhibitor eDKA.
+  2. De-challenge: Prompt clearance of serum ketones and restoration of acid-base balance followed drug withdrawal and protocolized therapy.
+  3. Exclusion of Alternatives: Starvation ketosis, alcoholic ketoacidosis, and classic hyperosmolar hyperglycemic state were ruled out through lab testing and clinical history.
+  4. Re-challenge: Re-exposure was ethically avoided due to life-threatening acidosis risk, placing causality in Probable under WHO criteria rather than Certain.
+
+---
+
+## Naranjo Causality Assessment Scale
+
+| No | Question / Criterion | Yes | No | Unknown | Score |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | +1 | 0 | 0 | +1 |
+| 2 | Did the adverse event appear after the suspect drug was given? | +2 | -1 | 0 | +2 |
+| 3 | Did the adverse reaction improve when the drug was stopped? | +1 | 0 | 0 | +1 |
+| 4 | Did the reaction reappear when the drug was readministered? | +2 | -1 | 0 | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | -1 | +2 | 0 | +2 |
+| 6 | Did the reaction reappear when a placebo was given? | -1 | +1 | 0 | 0 |
+| 7 | Was the drug detected in blood/fluids in toxic concentrations? | +1 | 0 | 0 | 0 |
+| 8 | Was the reaction severe when dose increased / less severe when decreased? | +1 | 0 | 0 | 0 |
+| 9 | Did the patient have a similar reaction to same/similar drugs in past? | +1 | 0 | 0 | 0 |
+| 10 | Was the adverse event confirmed by objective laboratory evidence? | +1 | 0 | 0 | +1 |
+| TOTAL | | | | | +7 |
+
+### Naranjo Rating and Justification
+* Total Naranjo Score: +7
+* Causality Classification: Probable (Score Range: 5 to 8)
+
+#### Detailed Score Breakdown
+* Question 1 (+1): SGLT2-inhibitor-induced euglycemic DKA is a well-established ADR supported by FDA safety communications.
+* Question 2 (+2): Clear temporal onset following drug introduction.
+* Question 3 (+1): Positive de-challenge; ketoacidosis resolved upon drug cessation and targeted protocol management.
+* Question 4 (0): Re-challenge was not attempted due to severe clinical risk.
+* Question 5 (+2): Other forms of metabolic acidosis and classic hyperglycemic DKA were systematically ruled out.
+* Question 10 (+1): Confirmed objectively via arterial blood gas (pH 7.18), serum beta-hydroxybutyrate (5.4 mmol/L), and elevated anion gap.
+
+---
+
+## Hartwig and Siegel Severity Assessment Scale
+
+* Severity Rating: Level 5 - Severe
+* Classification Criteria: Any ADR that requires intensive care unit (ICU) admission for continuous monitoring and specialized life-supportive medical protocols.
+* Clinical Justification: The reaction caused severe metabolic derangement requiring emergency ICU admission, central venous monitoring, continuous intravenous insulin, and concurrent dextrose infusions to prevent cardiovascular collapse.
