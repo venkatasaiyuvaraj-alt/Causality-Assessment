@@ -1,0 +1,87 @@
+Drug-Induced Immune Thrombocytopenia (DITP)
+
+### Patient Demographics
+* Identifier: Patient H.L.
+* Age: 58 years
+* Gender: Male
+* Weight: 80 kg
+* Medical History: Deep Vein Thrombosis (DVT), Hypertension (10 years), no baseline hematological abnormalities.
+
+### Clinical Chronology
+* Month 1 (Day 1): Diagnosed with acute lower-limb DVT; initiated on Unfractionated Heparin (UFH) continuous IV infusion (target aPTT 60 to 80 seconds). Baseline platelet count: 250,000 cells/mcL.
+* Month 1 (Day 7): Patient developed sudden petechiae, ecchymosis at IV sites, and severe hematuria.
+* Laboratory Findings at Day 7:
+  * Serum Platelet Count: 22,000 cells/mcL (Profound drop of greater than 50 percent from baseline)
+  * Hemoglobin: 11.2 g/dL (Baseline: 14.0 g/dL)
+  * Serology: Positive for Anti-Platelet Factor 4 (PF4)/Heparin antibodies via ELISA.
+* Intervention: Immediate cessation of Unfractionated Heparin on Day 7; switched to non-heparin anticoagulant (Fondaparinux); IV immunoglobulins (IVIG) administered.
+* Follow-up (Day 14 post-discontinuation): Complete resolution of bleeding manifestations; platelet count recovered to 210,000 cells/mcL.
+
+---
+
+## Task 2: Standardized ADR Reporting Form
+
+| Section | Parameter | Details |
+| :--- | :--- | :--- |
+| 1. Patient Information | Patient Initials | H.L. |
+| | Age / Gender / Weight | 58 yrs / Male / 80 kg |
+| 2. Adverse Event Details | Reaction Description | Heparin-Induced Thrombocytopenia (HIT Type II) with cutaneous hemorrhage |
+| | Date of Onset | Day 7 after Heparin initiation |
+| | Reaction Severity | Severe / High-risk (required urgent switching of anticoagulant and IVIG) |
+| 3. Suspected Drug(s) | Suspected Drug | Unfractionated Heparin IV continuous infusion |
+| | Interacting Agent | None |
+| | Indication | Deep Vein Thrombosis |
+| | Action Taken | Heparin immediately and permanently discontinued |
+| 4. Concomitant Drugs | Concurrent Therapy | Amlodipine 10 mg orally once daily (continued without change) |
+| 5. Outcome and De-challenge | De-challenge Outcome | Positive: Platelet count completely restored upon drug withdrawal |
+| | Re-challenge | Not Performed (Strictly contraindicated due to thrombotic/bleeding risks) |
+| | Final Outcome | Recovered fully without long-term hematological sequelae |
+
+---
+
+## WHO-UMC Causality Assessment
+
+* Classification: Probable / Likely
+* Rationale:
+  1. Temporal Sequence: Onset of severe thrombocytopenia occurred on Day 7, matching the classic 5 to 10 day timeline for immune-mediated heparin-induced antibody development.
+  2. De-challenge: Platelet count began recovering within 48 hours of drug cessation and normalized within 7 days.
+  3. Exclusion of Alternatives: Diagnostic workup excluded viral-induced thrombocytopenia, DIC, bone marrow suppression, and idiopathic immune thrombocytopenia.
+  4. Re-challenge: Re-exposure was ethically avoided due to high risk of catastrophic thrombosis, placing it in Probable under WHO criteria rather than Certain.
+
+---
+
+## Naranjo Causality Assessment Scale
+
+| No | Question / Criterion | Yes | No | Unknown | Score |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | +1 | 0 | 0 | +1 |
+| 2 | Did the adverse event appear after the suspect drug was given? | +2 | -1 | 0 | +2 |
+| 3 | Did the adverse reaction improve when the drug was stopped? | +1 | 0 | 0 | +1 |
+| 4 | Did the reaction reappear when the drug was readministered? | +2 | -1 | 0 | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | -1 | +2 | 0 | +2 |
+| 6 | Did the reaction reappear when a placebo was given? | -1 | +1 | 0 | 0 |
+| 7 | Was the drug detected in blood/fluids in toxic concentrations? | +1 | 0 | 0 | 0 |
+| 8 | Was the reaction severe when dose increased / less severe when decreased? | +1 | 0 | 0 | 0 |
+| 9 | Did the patient have a similar reaction to same/similar drugs in past? | +1 | 0 | 0 | 0 |
+| 10 | Was the adverse event confirmed by objective laboratory evidence? | +1 | 0 | 0 | +1 |
+| TOTAL | | | | | +7 |
+
+### Naranjo Rating and Justification
+* Total Naranjo Score: +7
+* Causality Classification: Probable (Score Range: 5 to 8)
+
+#### Detailed Score Breakdown
+* Question 1 (+1): Heparin-Induced Thrombocytopenia (HIT Type II) is a well-characterized immune-mediated reaction reported extensively in medical literature.
+* Question 2 (+2): Clear temporal pattern with platelet drop occurring 7 days post-initiation of therapy.
+* Question 3 (+1): Positive de-challenge; platelet counts normalized following permanent withdrawal of heparin.
+* Question 4 (0): Re-challenge was not attempted due to severe safety risks.
+* Question 5 (+2): Alternative causes were ruled out via clinical and laboratory evaluations.
+* Question 10 (+1): Objective laboratory verification provided by serological detection of anti-PF4/heparin antibodies and serial platelet counts.
+
+---
+
+## Hartwig and Siegel Severity Assessment Scale
+
+* Severity Rating: Level 4 (b) - Moderate
+* Classification Criteria: Any ADR that requires drug withdrawal, initiation of specific secondary treatment (IVIG / alternative anticoagulant), and causes an increase in hospital length of stay by at least 1 day.
+* Clinical Justification: The reaction required immediate heparin withdrawal, introduction of alternative non-heparin anticoagulation, IVIG administration, and extended monitoring in the hospital to ensure platelet recovery and prevent arterial/venous thrombosis.
