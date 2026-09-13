@@ -1,0 +1,90 @@
+Beta-Blocker-Induced Severe Bradycardia and AV Block.
+
+  ### Patient Demographics
+* Identifier: Patient W.T.
+* Age: 73 years
+* Gender: Male
+* Weight: 81 kg
+* Medical History: Heart Failure with reduced Ejection Fraction (HFrEF), Hypertension (12 years), mild chronic kidney disease.
+
+### Clinical Chronology
+* Month 1 (Day 1): Initiated on Metoprolol Succinate 25 mg orally once daily for HFrEF.
+* Month 3 (Day 1): Dose uptitrated to Metoprolol Succinate 100 mg orally once daily to achieve target heart failure dosing.
+* Month 3 (Day 10): Patient presented to the emergency department with recurrent presyncope, severe dizziness, fatigue, and breathlessness upon minimal exertion.
+* Clinical and Diagnostic Findings at Admission:
+  * Vital Signs: Heart Rate of 32 beats per minute, Blood Pressure of 88/54 mmHg.
+  * Electrocardiogram (ECG): Third-degree (Complete) Atrioventricular (AV) Block with a ventricular escape rate of 32 beats per minute; prolonged PR interval on previous baseline ECGs.
+  * Serum Potassium: 4.6 mEq/L (Normal reference range: 3.5 to 5.0 mEq/L)
+  * Cardiac Troponin I: 0.02 ng/mL (Normal; excludes acute myocardial infarction).
+* Intervention: Immediate cessation of Metoprolol Succinate; patient admitted to the Cardiac Care Unit (CCU); administered IV Atropine and transcutaneous pacing on standby.
+* Follow-up (Day 4 post-discontinuation): Rhythm spontaneously reverted to normal sinus rhythm with a resting heart rate of 68 beats per minute; normal 1:1 AV conduction restored without requiring permanent pacemaker implantation.
+
+---
+
+## Task 2: Standardized ADR Reporting Form
+
+| Section | Parameter | Details |
+| :--- | :--- | :--- |
+| 1. Patient Information | Patient Initials | W.T. |
+| | Age / Gender / Weight | 73 yrs / Male / 81 kg |
+| 2. Adverse Event Details | Reaction Description | Severe symptomatic sinus bradycardia and complete (third-degree) AV block |
+| | Date of Onset | Month 3 (Day 10 post-uptitration) |
+| | Reaction Severity | Severe / Life-threatening (required CCU admission and atropine intervention) |
+| 3. Suspected Drug(s) | Suspected Drug | Metoprolol Succinate 100 mg orally once daily |
+| | Interacting Agent | None |
+| | Indication | Heart Failure with reduced Ejection Fraction |
+| | Action Taken | Metoprolol Succinate immediately and permanently discontinued |
+| 4. Concomitant Drugs | Concurrent Therapy | Enalapril 10 mg twice daily, Spironolactone 25 mg daily (continued) |
+| 5. Outcome and De-challenge | De-challenge Outcome | Positive: Complete restoration of normal sinus rhythm following drug clearance |
+| | Re-challenge | Not Performed (Strictly contraindicated due to risk of fatal asystole) |
+| | Final Outcome | Recovered completely without permanent cardiac conduction deficits |
+
+---
+
+## WHO-UMC Causality Assessment
+
+* Classification: Probable / Likely
+* Rationale:
+  1. Temporal Sequence: Onset of high-grade AV block occurred 10 days following dose uptitration of Metoprolol Succinate, aligning with the expected pharmacodynamic dose-response window.
+  2. De-challenge: Prompt restoration of normal sinus rhythm and resolution of hemodynamic instability followed drug withdrawal.
+  3. Exclusion of Alternatives: Acute coronary syndrome, electrolyte derangements, Lyme disease, and intrinsic conduction disease were excluded.
+  4. Re-challenge: Re-exposure was ethically avoided due to risks of fatal asystole, placing causality in Probable under WHO criteria rather than Certain.
+
+---
+
+## Naranjo Causality Assessment Scale
+
+| No | Question / Criterion | Yes | No | Unknown | Score |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | +1 | 0 | 0 | +1 |
+| 2 | Did the adverse event appear after the suspect drug was given? | +2 | -1 | 0 | +2 |
+| 3 | Did the adverse reaction improve when the drug was stopped? | +1 | 0 | 0 | +1 |
+| 4 | Did the reaction reappear when the drug was readministered? | +2 | -1 | 0 | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | -1 | +2 | 0 | +2 |
+| 6 | Did the reaction reappear when a placebo was given? | -1 | +1 | 0 | 0 |
+| 7 | Was the drug detected in blood/fluids in toxic concentrations? | +1 | 0 | 0 | 0 |
+| 8 | Was the reaction severe when dose increased / less severe when decreased? | +1 | 0 | 0 | +1 |
+| 9 | Did the patient have a similar reaction to same/similar drugs in past? | +1 | 0 | 0 | 0 |
+| 10 | Was the adverse event confirmed by objective laboratory evidence? | +1 | 0 | 0 | +1 |
+| TOTAL | | | | | +8 |
+
+### Naranjo Rating and Justification
+* Total Naranjo Score: +8
+* Causality Classification: Probable (Score Range: 5 to 8)
+
+#### Detailed Score Breakdown
+* Question 1 (+1): Beta-blocker-induced AV node suppression and bradycardia are classic, well-documented adverse drug reactions.
+* Question 2 (+2): Clear temporal pattern with symptoms manifesting post-dose escalation.
+* Question 3 (+1): Positive de-challenge; AV block resolved upon Metoprolol clearance.
+* Question 4 (0): Re-challenge was not attempted due to critical safety risks.
+* Question 5 (+2): Ischemia, hyperkalemia, and primary cardiac degeneration were ruled out.
+* Question 8 (+1): Reaction worsened significantly upon dose increase from 25 mg to 100 mg daily.
+* Question 10 (+1): Confirmed objectively via 12-lead electrocardiogram demonstrating complete AV dissociation.
+
+---
+
+## Hartwig and Siegel Severity Assessment Scale
+
+* Severity Rating: Level 5 - Severe
+* Classification Criteria: Any ADR that requires intensive care or cardiac care unit (CCU) admission for continuous cardiac monitoring, vasopressor/antiarrhythmic support, or emergency pacing equipment on standby.
+* Clinical Justification: The reaction caused severe hemodynamic compromise requiring emergency admission to the CCU, immediate drug withdrawal, IV atropine, and temporary cardiac pacing standby.
