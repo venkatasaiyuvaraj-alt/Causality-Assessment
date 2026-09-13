@@ -1,0 +1,88 @@
+ACE-Inhibitor-Induced Angioedema.
+  
+### Patient Demographics
+* Identifier: Patient K.V.
+* Age: 61 years
+* Gender: Male
+* Weight: 82 kg
+* Medical History: Essential Hypertension (3 years), hyperlipidemia, no history of food or environmental allergies.
+
+### Clinical Chronology
+* Month 1 (Day 1): Initiated on Enalapril 10 mg orally once daily for blood pressure management.
+* Month 4 (Day 12): Patient woke up with acute, painless swelling of the lower lip, tongue, and soft palate, accompanied by mild voice hoarseness and difficulty swallowing (dysphagia).
+* Laboratory and Clinical Findings at Admission:
+  * Soft tissue edema of the labial and lingual structures without urticaria or pruritus.
+  * Fiberoptic Laryngoscopy: Moderate supraglottic edema without complete airway obstruction.
+  * C1 Esterase Inhibitor Level: 28 mg/dL (Normal reference range: 21 to 39 mg/dL; rules out hereditary angioedema).
+  * Serum Tryptase: 4.1 ng/mL (Normal reference range: under 11.4 ng/mL; rules out IgE-mediated anaphylaxis).
+* Intervention: Immediate permanent cessation of Enalapril; patient admitted to the step-down unit for continuous airway monitoring, IV methylprednisolone, and IM epinephrine on standby.
+* Follow-up (Day 3 post-discontinuation): Complete resolution of mucosal swelling and dysphagia; transitioned to Amlodipine 5 mg daily for hypertension.
+
+---
+
+## Task 2: Standardized ADR Reporting Form
+
+| Section | Parameter | Details |
+| :--- | :--- | :--- |
+| 1. Patient Information | Patient Initials | K.V. |
+| | Age / Gender / Weight | 61 yrs / Male / 82 kg |
+| 2. Adverse Event Details | Reaction Description | Acute bradykinin-mediated angioedema involving lip, tongue, and soft palate |
+| | Date of Onset | Month 4 (Day 12) after Enalapril initiation |
+| | Reaction Severity | Severe / High-risk (required step-down admission for airway observation) |
+| 3. Suspected Drug(s) | Suspected Drug | Enalapril 10 mg orally once daily |
+| | Interacting Agent | None |
+| | Indication | Essential Hypertension |
+| | Action Taken | Enalapril immediately and permanently discontinued |
+| 4. Concomitant Drugs | Concurrent Therapy | Atorvastatin 20 mg orally daily (continued without change) |
+| 5. Outcome and De-challenge | De-challenge Outcome | Positive: Complete resolution of angioedema within 48 hours of drug withdrawal |
+| | Re-challenge | Not Performed (Strictly contraindicated due to fatal asphyxiation risk) |
+| | Final Outcome | Recovered fully without long-term airway sequelae |
+
+---
+
+## WHO-UMC Causality Assessment
+
+* Classification: Probable / Likely
+* Rationale:
+  1. Temporal Sequence: Onset occurred 4 months after drug initiation, matching the known delayed presentation latency characteristic of ACE-inhibitor angioedema.
+  2. De-challenge: Mucosal swelling completely subsided following drug cessation and supportive care.
+  3. Exclusion of Alternatives: Normal C1 esterase inhibitor levels ruled out hereditary angioedema, and absence of urticaria/elevated tryptase excluded classic IgE-mediated allergy.
+  4. Re-challenge: Re-exposure was ethically avoided due to life-threatening airway compromise, placing causality in Probable under WHO criteria rather than Certain.
+
+---
+
+## Naranjo Causality Assessment Scale
+
+| No | Question / Criterion | Yes | No | Unknown | Score |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | +1 | 0 | 0 | +1 |
+| 2 | Did the adverse event appear after the suspect drug was given? | +2 | -1 | 0 | +2 |
+| 3 | Did the adverse reaction improve when the drug was stopped? | +1 | 0 | 0 | +1 |
+| 4 | Did the reaction reappear when the drug was readministered? | +2 | -1 | 0 | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | -1 | +2 | 0 | +2 |
+| 6 | Did the reaction reappear when a placebo was given? | -1 | +1 | 0 | 0 |
+| 7 | Was the drug detected in blood/fluids in toxic concentrations? | +1 | 0 | 0 | 0 |
+| 8 | Was the reaction severe when dose increased / less severe when decreased? | +1 | 0 | 0 | 0 |
+| 9 | Did the patient have a similar reaction to same/similar drugs in past? | +1 | 0 | 0 | 0 |
+| 10 | Was the adverse event confirmed by objective laboratory evidence? | +1 | 0 | 0 | +1 |
+| TOTAL | | | | | +7 |
+
+### Naranjo Rating and Justification
+* Total Naranjo Score: +7
+* Causality Classification: Probable (Score Range: 5 to 8)
+
+#### Detailed Score Breakdown
+* Question 1 (+1): ACE-inhibitor-induced angioedema is a well-established reaction resulting from bradykinin degradation inhibition.
+* Question 2 (+2): Clear temporal onset post-drug administration.
+* Question 3 (+1): Positive de-challenge; angioedema completely resolved after stopping Enalapril.
+* Question 4 (0): Re-challenge was not attempted due to severe safety risks.
+* Question 5 (+2): Hereditary angioedema, food allergies, and acute anaphylaxis were ruled out.
+* Question 10 (+1): Confirmed objectively via fiberoptic laryngoscopy visualizing supraglottic mucosal edema.
+
+---
+
+## Hartwig and Siegel Severity Assessment Scale
+
+* Severity Rating: Level 4 (a) - Moderate
+* Classification Criteria: Any ADR that directly requires emergency hospital admission, drug withdrawal, and close clinical monitoring/medical management.
+* Clinical Justification: The angioedema presented a potential airway compromise requiring emergency admission to a step-down unit, immediate Enalapril withdrawal, and IV corticosteroid management to prevent respiratory arrest.
