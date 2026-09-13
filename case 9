@@ -1,0 +1,88 @@
+Bisphosphonate-Induced Osteonecrosis of the Jaw (ONJ).
+
+### Patient Demographics
+* Identifier: Patient J.W.
+* Age: 71 years
+* Gender: Female
+* Weight: 58 kg
+* Medical History: Postmenopausal Osteoporosis (6 years), no prior radiation therapy to the head or neck, no active oral malignancy.
+
+### Clinical Chronology
+* Year 1 (Month 1): Initiated on Alendronate 70 mg orally once weekly for osteoporosis management.
+* Year 4 (Month 3): Patient underwent a routine dental extraction of the lower right second molar.
+* Year 4 (Month 6): Patient presented with persistent localized pain, purulent discharge, swelling, and non-healing exposed bone at the extraction site lasting greater than 8 weeks.
+* Clinical and Diagnostic Findings at Admission:
+  * Physical Exam: Non-healing exposed necrotic bone measuring 1.5 cm in the right mandible with surrounding soft tissue inflammation.
+  * Cone Beam Computed Tomography (CBCT): Area of localized osteolysis, cortical bone destruction, and osteosclerosis of the right posterior mandible without evidence of metastatic disease.
+  * Systemic Markers: Normal serum calcium, vitamin D, and parathyroid hormone levels.
+* Intervention: Immediate permanent cessation of Alendronate; initiated chlorhexidine antimicrobial oral rinses, systemic amoxicillin-clavulanate therapy, and conservative dental debridement.
+* Follow-up (Month 6 post-discontinuation): Gradual mucosal coverage of the exposed area; full resolution of purulent discharge and pain.
+
+---
+
+## Task 2: Standardized ADR Reporting Form
+
+| Section | Parameter | Details |
+| :--- | :--- | :--- |
+| 1. Patient Information | Patient Initials | J.W. |
+| | Age / Gender / Weight | 71 yrs / Female / 58 kg |
+| 2. Adverse Event Details | Reaction Description | Medication-Related Osteonecrosis of the Jaw (MRONJ, Stage 2) |
+| | Date of Onset | Year 4 (3 months post-tooth extraction) |
+| | Reaction Severity | Severe / Permanent tissue risk (required chronic antimicrobial care and debridement) |
+| 3. Suspected Drug(s) | Suspected Drug | Alendronate 70 mg orally once weekly |
+| | Interacting Agent | None |
+| | Indication | Postmenopausal Osteoporosis |
+| | Action Taken | Alendronate immediately and permanently discontinued |
+| 4. Concomitant Drugs | Concurrent Therapy | Calcium carbonate 1200 mg daily, Vitamin D3 1000 IU daily (continued) |
+| 5. Outcome and De-challenge | De-challenge Outcome | Positive: Gradual mucosal healing and symptom resolution post-withdrawal |
+| | Re-challenge | Not Performed (Strictly contraindicated due to risk of progressive necrosis) |
+| | Final Outcome | Recovered with partial mucosal healing and symptom control |
+
+---
+
+## WHO-UMC Causality Assessment
+
+* Classification: Probable / Likely
+* Rationale:
+  1. Temporal Sequence: Onset occurred after 4 years of cumulative oral bisphosphonate exposure following an invasive dental trigger, matching the typical presentation profile of MRONJ.
+  2. De-challenge: Healing of oral mucosa and resolution of necrotic discharge observed following drug discontinuation and conservative therapy.
+  3. Exclusion of Alternatives: Prior head/neck radiation therapy, jaw metastases, and primary osteomyelitis were ruled out via clinical history and imaging.
+  4. Re-challenge: Re-exposure was ethically avoided due to risks of extensive mandibular necrosis, placing causality in Probable under WHO criteria rather than Certain.
+
+---
+
+## Naranjo Causality Assessment Scale
+
+| No | Question / Criterion | Yes | No | Unknown | Score |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | +1 | 0 | 0 | +1 |
+| 2 | Did the adverse event appear after the suspect drug was given? | +2 | -1 | 0 | +2 |
+| 3 | Did the adverse reaction improve when the drug was stopped? | +1 | 0 | 0 | +1 |
+| 4 | Did the reaction reappear when the drug was readministered? | +2 | -1 | 0 | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | -1 | +2 | 0 | +2 |
+| 6 | Did the reaction reappear when a placebo was given? | -1 | +1 | 0 | 0 |
+| 7 | Was the drug detected in blood/fluids in toxic concentrations? | +1 | 0 | 0 | 0 |
+| 8 | Was the reaction severe when dose increased / less severe when decreased? | +1 | 0 | 0 | 0 |
+| 9 | Did the patient have a similar reaction to same/similar drugs in past? | +1 | 0 | 0 | 0 |
+| 10 | Was the adverse event confirmed by objective laboratory evidence? | +1 | 0 | 0 | +1 |
+| TOTAL | | | | | +7 |
+
+### Naranjo Rating and Justification
+* Total Naranjo Score: +7
+* Causality Classification: Probable (Score Range: 5 to 8)
+
+#### Detailed Score Breakdown
+* Question 1 (+1): Bisphosphonate-induced osteonecrosis of the jaw is a well-documented ADR with established clinical diagnostic criteria.
+* Question 2 (+2): Clear temporal relationship following long-term administration of Alendronate.
+* Question 3 (+1): Positive de-challenge; bone exposure site stabilized and mucosal healing occurred post-discontinuation.
+* Question 4 (0): Re-challenge was not attempted due to severe safety risks.
+* Question 5 (+2): Radiation necrosis, malignant bone lesions, and primary periodontal disease were systematically excluded.
+* Question 10 (+1): Confirmed objectively through visual inspection (exposed necrotic bone >8 weeks) and CBCT radiological findings.
+
+---
+
+## Hartwig and Siegel Severity Assessment Scale
+
+* Severity Rating: Level 5 - Severe
+* Classification Criteria: Any ADR that causes structural tissue damage, requires specialized outpatient surgical/dental debridement, chronic antimicrobial coverage, or results in prolonged disability.
+* Clinical Justification: The reaction caused persistent bone necrosis requiring permanent cessation of osteoporosis therapy, long-term oral antibiotic regimens, surgical dental consultation, and local tissue debridement.
